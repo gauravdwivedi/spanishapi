@@ -1,96 +1,59 @@
 {
   "results": [
     {
-      "category": "Entertainment: Television",
-      "type": "multiple",
-      "difficulty": "easy",
-      "question": "Who is the star of the AMC series Breaking Bad?",
-      "correct_answer": "Walter White",
-      "incorrect_answers": ["Saul Goodman", "Jesse Pinkman", "Skyler White"]
+      "question": "What is the correct translation for 'telephone'?",
+      "correct_answer": "el telefono",
+      "incorrect_answers": ["el agua", "un paraguas", "una bicicleta"]
     },
     {
-      "category": "Entertainment: Television",
-      "type": "multiple",
-      "difficulty": "easy",
-      "question": "In DuckTales, what is the name of the city where all the main characters live?",
-      "correct_answer": "Duckburg",
-      "incorrect_answers": ["Duckwing", "Tailspin", "Wingford"]
+      "question": "How do you say 'Good Morning",
+      "correct_answer": "Buenos dias",
+      "incorrect_answers": ["Buenos noches", "Buenas tardes", "Adios"]
     },
     {
-      "category": "Entertainment: Television",
-      "type": "multiple",
-      "difficulty": "easy",
-      "question": "Which show is known for the songs &quot;You are a Pirate&quot;, &quot;Cooking by the Book&quot; and &quot;We Are Number One&quot;?",
-      "correct_answer": "LazyTown",
-      "incorrect_answers": ["Sofia the First", "DuckTales", "Tom and Jerry"]
+      "question": "How do you say 'Good afternoon'?",
+      "correct_answer": "Buenas tardes",
+      "incorrect_answers": ["Buenos dias", "Adios", "Buenas noches"]
     },
     {
-      "category": "Entertainment: Television",
-      "type": "multiple",
-      "difficulty": "easy",
-      "question": "Who won Big Brother 2014 UK?",
-      "correct_answer": "Helen Wood",
-      "incorrect_answers": [
-        "Christopher Hall",
-        "Pauline Bennett",
-        "Pavandeep &quot;Pav&quot; Paul"
-      ]
+      "question": "How do you say 'Good evening'?",
+      "correct_answer": "Buenas noches",
+      "incorrect_answers": ["unas llaves", "Muchas gracias", "Adios"]
     },
     {
-      "category": "Entertainment: Television",
-      "type": "multiple",
-      "difficulty": "easy",
-      "question": "In &quot;Breaking Bad&quot;, Walter White is a high school teacher diagnosed with which form of cancer?",
-      "correct_answer": "Lung Cancer",
-      "incorrect_answers": [
-        "Prostate Cancer",
-        "Brain Cancer",
-        "Testicular Cancer"
-      ]
+      "question": "What is the correct translation for 'Please'?",
+      "correct_answer": "Por favor",
+      "incorrect_answers": ["Perdon", "Hola", "izquierda"]
     },
     {
-      "category": "Entertainment: Television",
-      "type": "multiple",
-      "difficulty": "easy",
-      "question": "Which of these Disney shows is classified as an anime?",
-      "correct_answer": "Stitch!",
-      "incorrect_answers": [
-        "Cory in the House",
-        "The Emperor&#039;s New School",
-        "Hannah Montana"
-      ]
+      "question": "How do you say 'Thank You'?",
+      "correct_answer": "Gracias",
+      "incorrect_answers": ["Adios", "derecha", "Perdon"]
     },
     {
-      "category": "Entertainment: Television",
-      "type": "multiple",
-      "difficulty": "easy",
-      "question": "When Donkey Kong died in the &quot;Donkey Kong Country&quot; episode &quot;It&#039;s a Wonderful Life&quot;, who was his guardian angel?",
-      "correct_answer": "Eddie the Mean Old Yeti",
-      "incorrect_answers": ["Kiddy Kong", "Diddy Kong", "King K. Rool"]
+      "question": "What is the correct translation for 'Thank you very much'?",
+      "correct_answer": "Muchas gracias",
+      "incorrect_answers": ["No se", "!Perdon!", "!Salud"]
     },
     {
-      "category": "Entertainment: Television",
-      "type": "multiple",
-      "difficulty": "easy",
-      "question": "How many seasons did the Sci-Fi television show &quot;Stargate Atlantis&quot; have?",
-      "correct_answer": "5",
-      "incorrect_answers": ["10", "2", "7"]
+      "question": "How do you say 'Sorry'?",
+      "correct_answer": "Perdon",
+      "incorrect_answers": ["No se", "Gracias", "Por favor"]
     },
     {
-      "category": "Entertainment: Television",
-      "type": "multiple",
-      "difficulty": "easy",
-      "question": "Who played the Waitress in the Spam sketch of &quot;Monty Python&#039;s Flying Circus&quot;?",
-      "correct_answer": "Terry Jones",
-      "incorrect_answers": ["Eric Idle", "Graham Chapman", "John Cleese"]
+      "question": "How do you say 'Hello'?",
+      "correct_answer": "Hola",
+      "incorrect_answers": ["Por favor", "Gracias", "No se"]
     },
     {
-      "category": "Entertainment: Television",
-      "type": "multiple",
-      "difficulty": "easy",
-      "question": "In &quot;Rick And Morty&quot;, who shot &quot;Mr. Poopybutthole&quot; in the episode &quot;Total Rickall&quot;?",
-      "correct_answer": "Beth",
-      "incorrect_answers": ["Rick", "Jerry", "Morty"]
+      "question": "How do you say 'Good-bye'?",
+      "correct_answer": "Adios",
+      "incorrect_answers": ["izquierda", "Donde esta la playa", "Buenas noches"]
+    },
+    {
+      "question": "What is the correct translation for 'right'?",
+      "correct_answer": "derecha",
+      "incorrect_answers": ["izquierda", "Donde esta la playa", "Buenas noches"]
     }
   ]
 }
